@@ -151,48 +151,22 @@ function setRestricted() {
 setRestricted();
 
 // Configure HTML accessories
-const simpleAbout = `
+const aboutText = `
     <div class="simple-about">
-        <h2>Welcome!</h2>
-
-        <p>Hi, I'm <strong>ReganCipher</strong>. I'm an audio tech reviewer in the UK, with a background in DJ'ing and music production, sharing the decks at clubs and festivals all over Europe with the likes of Axwell, Steve Angello, Eric Prydz, Fedde Le Grand and Calvin Harris during the early 2000's.</p>
-
-        <p>Now I spend my spare time testing and reviewing mostly budget audio gear, with a hope that one day I'll find an affordable endgame and be able to share it with all of you! Until then, I hope you find the measurements here useful in finding something to your liking, or tweaking what you already have.</p>
-
-        <h2>Connect With Me</h2>
-
-        <p>If you want to check out my work elsewhere, here are my social links:</p>
-
-        <ul style="list-style: none; padding-left: 20px; line-height: 1.6;">
-            <li>🌐 Website: <a href="https://regancipher.com" target="_blank">regancipher.com</a></li>
-            <li>🔗 Bio Link: <a href="https://bio.link/regancipher" target="_blank">bio.link/regancipher</a></li>
-            <li>📸 Instagram: <a href="https://instagram.com/regancipher" target="_blank">instagram.com/regancipher</a></li>
-            <li>🎧 Head-fi: <a href="https://www.head-fi.org/members/regancipher.535074/#showcase-reviews" target="_blank">my head-fi review inventory</a></li>
-            <li>☕ Ko-Fi: <a href="https://kofi.com/regancipher" target="_blank">kofi.com/regancipher</a></li>
-            <li>📊 Squiglink: <a href="https://regancipher.squig.link" target="_blank">regancipher.squig.link</a></li>
-            <li>🌳 LinkTree: <a href="https://linktr.ee/rcaudio" target="_blank">linktr.ee/rcaudio</a></li>
+        <ul style="list-style: none; padding: 0; text-align: center; line-height: 1.8;">
+            <li>🌐 <a href="https://regancipher.com" target="_blank">Website</a></li>
+            <li>🔗 <a href="https://bio.link/regancipher" target="_blank">Bio Link</a></li>
+            <li>📸 <a href="https://instagram.com/regancipher" target="_blank">Instagram</a></li>
+            <li>🎧 <a href="https://www.head-fi.org/members/regancipher.535074/#showcase-reviews" target="_blank">Head-fi Reviews</a></li>
+            <li>☕ <a href="https://kofi.com/regancipher" target="_blank">Ko-Fi</a></li>
+            <li>📊 <a href="https://regancipher.squig.link" target="_blank">Squiglink</a></li>
+            <li>🌳 <a href="https://linktr.ee/rcaudio" target="_blank">LinkTree</a></li>
         </ul>
     </div>
 `;
 
-const widgets = `
-    <div class="accessories-widgets">
-        <div class="widget">
-            <img width="200" src="cringraph-logo.svg"/>
-        </div>
-
-        <div class="widget">
-            <img width="200" src="cringraph-logo.svg"/>
-        </div>
-
-        <div class="widget">
-            <img width="200" src="cringraph-logo.svg"/>
-        </div>
-    </div>
-`;
-
 // Set which accessories to use
-const whichAccessoriesToUse = simpleAbout;
+const whichAccessoriesToUse = aboutText;
 
 // Set up analytics
 function setupGraphAnalytics() {
