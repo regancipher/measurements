@@ -130,11 +130,15 @@ setRestricted();
 
 // Configure HTML accessories to appear at the bottom of the page. Displayed only if accessories (above) is true
 // There are a few templates here for ease of use / examples, but these variables accept any HTML
-const 
-    // Short text, center-aligned, useful for a little side info, credits, links to measurement setup, etc. 
-    simpleAbout = `
-        <p class="center">More from regancipher at <a href="https://www.regancipher.com">regancipher.com</a>, on <a href="https://www.youtube.com/channel/UCH6h7agGcLNqqw_zV8DMD5Q">YouTube</a> and at <a href="https://www.head-fi.org/members/regancipher.535074/#showcase-reviews">Headfi</a>. Links to my socials <a href="https://linktr.ee/rcaudio">here</a>.</p>
-    `,
+const simpleAbout = `
+    <div style="color: black; font-size: 1.2em; text-align: center; line-height: 1.5;">
+        More from <strong>regancipher</strong> at 
+        <a href="https://regancipher.com" target="_blank">regancipher.com</a>, 
+        on <a href="https://youtube.com" target="_blank">YouTube</a>, and at 
+        <a href="https://head-fi.org" target="_blank">Head-Fi</a>.
+    </div>
+`;
+
     // Slightly different presentation to make more readable paragraphs. Useful for elaborated methodology, etc.
     paragraphs = `
         <h2>Viverra tellus in hac</h2>
