@@ -130,14 +130,27 @@ setRestricted();
 
 // Configure HTML accessories to appear at the bottom of the page. Displayed only if accessories (above) is true
 // There are a few templates here for ease of use / examples, but these variables accept any HTML
-const simpleAbout = `
-    <div style="color: black; font-size: 1.2em; text-align: center; line-height: 1.5;">
-        More from <strong>regancipher</strong> at 
-        <a href="https://regancipher.com" target="_blank">regancipher.com</a>, 
-        on <a href="https://www.youtube.com/@ReganCipher" target="_blank">YouTube</a>, and at 
-        <a href="https://www.head-fi.org/members/regancipher.535074/#showcase-reviews" target="_blank">Head-Fi</a>.
-    </div>
-`;
+const paragraphs = `
+    <h2>Welcome!</h2>
+
+    <p>Hi, I'm <strong>ReganCipher</strong>. I'm an audio tech reviewer in the UK, with a background in DJ'ing and music production, sharing the decks at clubs and festivals all over Europe with the likes of Axwell, Steve Angello, Eric Prydz, Fedde Le Grand and Calvin Harris during the early 2000's.</p>
+
+    <p>Now I spend my spare time testing and reviewing mostly budget audio gear, with a hope that one day I'll find an affordable endgame and be able to share it with all of you! Until then, I hope you find the measurements here useful in finding something to your liking, or tweaking what you already have.</p>
+
+    <h2>Connect With Me</h2>
+
+    <p>If you want to check out my work elsewhere, here are my social links:</p>
+
+    <ul style="list-style: none; padding-left: 20px; line-height: 1.6;">
+        <li>🌐 Website: <a href="https://regancipher.com" target="_blank">regancipher.com</a></li>
+        <li>🔗 Bio Link: <a href="https://bio.link/regancipher" target="_blank">bio.link/regancipher</a></li>
+        <li>📸 Instagram: <a href="https://instagram.com/regancipher" target="_blank">instagram.com/regancipher</a></li>
+        <li>🎧 Head-fi: <a href="https://www.head-fi.org/members/regancipher.535074/#showcase-reviews" target="_blank">my head-fi review inventory</a></li>
+        <li>☕ Ko-Fi: <a href="https://kofi.com/regancipher" target="_blank">kofi.com/regancipher</a></li>
+        <li>📊 Squiglink: <a href="https://regancipher.squig.link" target="_blank">regancipher.squig.link</a></li>
+        <li>🌳 LinkTree: <a href="https://linktr.ee/rcaudio" target="_blank">linktr.ee/rcaudio</a></li>
+    </ul>
+`,
 
     // Slightly different presentation to make more readable paragraphs. Useful for elaborated methodology, etc.
     paragraphs = `
