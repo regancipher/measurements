@@ -134,8 +134,8 @@ const simpleAbout = `
     <div style="color: black; font-size: 1.2em; text-align: center; line-height: 1.5;">
         More from <strong>regancipher</strong> at 
         <a href="https://regancipher.com" target="_blank">regancipher.com</a>, 
-        on <a href="https://youtube.com" target="_blank">YouTube</a>, and at 
-        <a href="https://head-fi.org" target="_blank">Head-Fi</a>.
+        on <a href="https://www.youtube.com/@ReganCipher" target="_blank">YouTube</a>, and at 
+        <a href="https://www.head-fi.org/members/regancipher.535074/#showcase-reviews" target="_blank">Head-Fi</a>.
     </div>
 `;
 
