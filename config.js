@@ -153,8 +153,10 @@ setRestricted();
 // Configure HTML accessories
 const aboutText = `
     <div class="simple-about">
+        <h3 style="text-align: center; margin-bottom: 20px;">ReganCipher Links & Socials</h3>
         <ul style="list-style: none; padding: 0; text-align: center; line-height: 1.8;">
             <li>🌐 <a href="https://regancipher.com" target="_blank">Website</a></li>
+            <li>📺 <a href="https://www.youtube.com/channel/UCH6h7agGcLNqqw_zV8DMD5Q" target="_blank">YouTube</a></li>
             <li>🔗 <a href="https://bio.link/regancipher" target="_blank">Bio Link</a></li>
             <li>📸 <a href="https://instagram.com/regancipher" target="_blank">Instagram</a></li>
             <li>🎧 <a href="https://www.head-fi.org/members/regancipher.535074/#showcase-reviews" target="_blank">Head-fi Reviews</a></li>
