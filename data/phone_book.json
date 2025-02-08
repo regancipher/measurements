@@ -110,6 +110,12 @@
 	"suffix": ["(ANC off)", "(ANC on)"],
 	"reviewLink": "https://youtu.be/2YV6H9NX-L0?si=1kXyX4gyUoaeHj4p"
       },
+{
+        "name": "Aurvana Mimi",
+        "file": ["Creative Aurvana Mimi", "Creative Aurvana Mimi A"],
+	"suffix": ["(ANC off)", "(ANC on)"]
+      },
+
       {
         "name": "Outlier Free Pro Plus",
         "file": "Creative Outlier Free Pro Plus"
