@@ -106,7 +106,7 @@ function watermark(svg) {
             "text-anchor": "end",
             "class": "wm-squiglink-address"
         })
-        .text("regancipher.squig.link");
+        .text("regancipher.github.io/measurements");
 }
 
 // Parse fr text data
