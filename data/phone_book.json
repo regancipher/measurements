@@ -169,7 +169,7 @@
         "name": "Air 2 NC",
         "file": ["Earfun Air 2 NC off", "Earfun Air 2 NC"],
 	"suffix": ["(ANC off)", "(ANC on)"],
-	"reviewLink": "https://youtu.be/88fTMoQZPJE?si=fYDA1AllsGsmNYym" 
+	"reviewLink": "https://youtu.be/88fTMoQZPJE?si=fYDA1AllsGsmNYym"
       },
       {
         "name": "Air Pro 3 (ANC on)",
@@ -186,7 +186,7 @@
         "name": "Wave Pro",
         "file": ["Earfun Wave Pro (ANC off)", "Earfun Wave Pro"],
 	"suffix": ["(ANC off)", "(ANC on)"],
-	"reviewLink": "https://youtu.be/sG2rQu8EqCc?si=MRK81tAQR-Tx2UEG" 
+	"reviewLink": "https://youtu.be/sG2rQu8EqCc?si=MRK81tAQR-Tx2UEG"
       }
     ]
   },
@@ -319,8 +319,8 @@
       },
 {
         "name": "FreeBuds Pro 4",
-        "file": ["HFBP4", "HFBP4 ANC", "HFBP4 A Bal", "HFBP4 A Classical", "HFBP4 A Symphony", "HFBP4 A Hifi Live", "HFBP4 A BB", "HFBP4 A TB"],
-        "suffix": ["(ANC off) (Default)", "(ANC on) (Default)", "(ANC on) (Balanced)", "(ANC on) (Classical)", "(ANC on) (Symphony)", "(ANC on) (HiFi Live)", "(ANC on) (Bass Boost)", "(ANC on) (Treble Boost)"]
+        "file": ["HFBP4", "HFBP4 ANC", "HFBP4 A Bal", "HFBP4 A Classical", "HFBP4 A Symphony", "HFBP4 A Hifi Live", "HFBP4 A BB", "HFBP4 A TB", "HFBP4 Vocal"],
+        "suffix": ["(ANC off) (Default)", "(ANC on) (Default)", "(ANC on) (Balanced)", "(ANC on) (Classical)", "(ANC on) (Symphony)", "(ANC on) (HiFi Live)", "(ANC on) (Bass Boost)", "(ANC on) (Treble Boost)", "(ANC on) (Vocal)"]
       },
       {
         "name": "Freebuds 5",
