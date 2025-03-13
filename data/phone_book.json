@@ -142,7 +142,8 @@
     "phones": [
       {
         "name": "DK 3001 BD",
-        "file": "Dunu DK3001 BD"
+        "file": "Dunu DK3001 BD",
+	"reviewLink": "https://youtu.be/XSaPwE9wa4I?si=rk8SGb0eDU3ya4vo"
       },
 {
         "name": "Falcon Ultra",
@@ -325,7 +326,8 @@
 {
         "name": "FreeBuds Pro 4",
         "file": ["HFBP4", "HFBP4 ANC", "HFBP4 A Bal", "HFBP4 A Classical", "HFBP4 A Symphony", "HFBP4 A Hifi Live", "HFBP4 A BB", "HFBP4 A TB"],
-        "suffix": ["(ANC off) (Default)", "(ANC on) (Default)", "(ANC on) (Balanced)", "(ANC on) (Classical)", "(ANC on) (Symphony)", "(ANC on) (HiFi Live)", "(ANC on) (Bass Boost)", "(ANC on) (Treble Boost)"]
+        "suffix": ["(ANC off) (Default)", "(ANC on) (Default)", "(ANC on) (Balanced)", "(ANC on) (Classical)", "(ANC on) (Symphony)", "(ANC on) (HiFi Live)", "(ANC on) (Bass Boost)", "(ANC on) (Treble Boost)"],
+	"reviewlink": "https://www.youtube.com/watch?v=E1Ttc1ODFQQ"
       },
       {
         "name": "Freebuds 5",
@@ -380,7 +382,9 @@
 {
         "name": "Klean",
         "file": ["Kefine Klean Black", "Kefine Klean Silver"],
-        "suffix": ["(Black Nozzle)", "(Silver Nozzle)"]
+        "suffix": ["(Black Nozzle)", "(Silver Nozzle)"],
+	"reviewLink": "https://youtu.be/ywlMoGN5qoU?si=0zixGL52Tyr-IlnZ"
+
       }
     ]
   },
@@ -524,15 +528,20 @@
   {
     "name": "OnePlus",
     "phones": [
-      {
+        {
+        "name": "Buds 3",
+        "file": ["OnePlus Buds 3", "OnePlus Buds 3 ANC", "OnePlus Buds 3 Ba", "OnePlus Buds 3 Bo", "OnePlus Buds 3 S"],
+        "suffix": ["(ANC off) (Original Sound)", "(ANC on) (Original Sound)", "(ANC on) (Bass)", "(ANC on) (Bold)", "(ANC on) (Serenade)"],
+	"reviewLink": "https://youtu.be/nA8SzBswW5w?si=5sQJdAhWqZfbcd-8"
+      },
+{
         "name": "Buds Pro (ANC on)",
         "file": "OnePlus Buds Pro"
       },
-     {
-        "name": "Buds 3",
-        "file": ["OnePlus Buds 3", "OnePlus Buds 3 ANC", "OnePlus Buds 3 Ba", "OnePlus Buds 3 Bo", "OnePlus Buds 3 S"],
-        "suffix": ["(ANC off) (Original Sound)", "(ANC on) (Original Sound)", "(ANC on) (Bass Preset)", "(ANC on) (Bold Preset)", "(ANC on) (Serenade Preset)"],
-	"reviewLink": "https://youtu.be/nA8SzBswW5w?si=5sQJdAhWqZfbcd-8"
+{
+        "name": "Buds Pro 3",
+        "file": ["OPBP3", "OPBP3 ANC", "OPBP3 Bold", "OPBP3 S", "OPBP3 Bass", "OPBP3 Dyn"],
+        "suffix": ["(ANC off) (Balanced)", "(ANC on) (Balanced)", "(ANC on) (Bold)", "(ANC on) (Serenade)", "(ANC on) (Bass)", "(ANC on) (Dynaudio featured)"]
       }
     ]
   },
@@ -578,7 +587,8 @@
 {
       "name": "H3 Pro",
       "file": ["QCY H3 Pro","QCY H3 Pro ANC"],
-	"suffix": ["(ANC off)", "(ANC on)"]
+	"suffix": ["(ANC off)", "(ANC on)"],
+	"reviewLink": "https://youtu.be/nNP3W6zI0S0?si=vAe5u53dHOr2rW9w"
     },
 
     {
@@ -660,7 +670,8 @@
     {
       "name": "Buds 6 Pro",
       "file": ["Redmi Buds 6 Pro ANC", "Redmi Buds 6 Pro off", "Redmi Buds 6 Pro T", "Redmi Buds 6 Pro AEB", "Redmi Buds 6 Pro AET", "Redmi Buds 6 Pro AEV"],
-      "suffix": ["(ANC on)", "(ANC off)", "(Transparency)", "(ANC on, Extra Bass)", "(ANC on, Extra Treble)", "(ANC on, Extra Voice)"]
+      "suffix": ["(ANC on)", "(ANC off)", "(Transparency)", "(ANC on, Extra Bass)", "(ANC on, Extra Treble)", "(ANC on, Extra Voice)"],
+	"reviewLink": "https://youtu.be/HvjvxV55_s4?si=96KLEqVdrm-HCzGm"
     }
   ]
 },
@@ -801,7 +812,8 @@
     {
       "name": "Breezy",
       "file": ["SoundPEATS Breezy", "SoundPEATS Breezy Dynamic EQ"],
-	"suffix": ["", "(Dynamic EQ)"]
+	"suffix": ["", "(Dynamic EQ)"],
+	"reviewLink": "https://youtu.be/LF-TvdMUjyQ?si=ULsqr0XVBFDIL0Db"
     },
     {
       "name": "Capsule3 Pro (ANC on)",
