@@ -440,19 +440,14 @@
         "file": "Moondrop Chu"
       },
 {
-        "name": "Edge (ANC on)",
-        "file": "Moondrop Edge A"
+        "name": "Edge",
+        "file": ["ME ANC", "ME EB", "ME CS", "ME OSS", "ME VS"],
+        "suffix": ["(Reference) (ANC on)", "(Extra Bass) (ANC on)", "(Country Style) (ANC on)", "(Old Studio Style) (ANC on)", "(Violin Solo) (ANC on)"]
       },
       {
-        "name": "Moca (ANC off)",
-        "file": ["Moondrop Moca", "Moondrop Moca Ref", "Moondrop Moca Solis Bass", "Moondrop Moca UB"],
-        "suffix": ["(Default)", "(Reference)", "(Solis Bass)", "(Ultra Bass)"],
-	"reviewLink": "https://youtu.be/Q8_2NCNSAlc?si=GbNZCcgR76Rwahkt"
-      },
-      {
-        "name": "Moca (ANC on)",
-        "file": ["Moondrop Moca ANC", "Moondrop Moca ANC Ref", "Moondrop Moca Solis Bass ANC", "Moondrop Moca ANC UB"],
-        "suffix": ["(Default)", "(Reference)", "(Solis Bass)", "(Ultra Bass)"],
+        "name": "Moca",
+        "file": ["Moondrop Moca ANC", "Moondrop Moca", "Moondrop Moca ANC Ref", "Moondrop Moca Ref", "Moondrop Moca Solis Bass ANC", "Moondrop Moca Solis Bass", "Moondrop Moca ANC UB", "Moondrop Moca UB"],
+        "suffix": ["(Default) (ANC on)", "(Default) (ANC off)", "(Reference) (ANC on)", "(Reference) (ANC off)", "(Solis Bass) (ANC on)", "(Solis Bass) (ANC off)", "(Ultra Bass) (ANC on)", "(Ultra Bass) (ANC off)"],
 	"reviewLink": "https://youtu.be/Q8_2NCNSAlc?si=GbNZCcgR76Rwahkt"
       },
       {
