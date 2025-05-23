@@ -56,45 +56,6 @@ const targets = [
 ];
 
 // Functions to support config options
-:
-      page_description = "View and compare frequency response graphs for earphones",
-      accessories = true,
-      externalLinksBar = false,
-      restricted = false,
-      expandable = false,
-      expandableOnly = false,
-      headerHeight = "0px",
-      darkModeButton = true,
-      targetDashed = true,
-      targetColorCustom = false,
-      labelsPosition = "bottom-left",
-      stickyLabels = true,
-      analyticsEnabled = true,
-      exportableGraphs = true,
-      extraEnabled = true,
-      extraUploadEnabled = true,
-      extraEQEnabled = true,
-      extraEQBands = 10,
-      extraEQBandsMax = 20,
-      extraToneGeneratorEnabled = true;
-
-// Specify which targets to display
-const targets = [
-    { 
-        type: "Neutral",
-        files: ["Diffuse Field", "Etymotic", "Free Field", "Innerfidelity ID"]
-    },
-    { 
-        type: "Preference",
-        files: ["Harman 2019 IE v2", "Harman 2018 OE", "Rtings", "Sonarworks"]
-    },
-    { 
-        type: "Reviewer",
-        files: ["Antdroid", "Bad Guy", "Banbeucmas", "Crinacle", "Precogvision", "Super Review"]
-    }
-];
-
-// Functions to support config options
 function watermark(svg) {
     let wm = svg.append("g")
         .attr("transform", "translate(" + (pad.l + W/2) + "," + (pad.t + H/2 - 20) + ")")
@@ -135,86 +96,7 @@ function watermark(svg) {
             "class": "wm-squiglink-logo",
             "xlink:href": "squiglink-giggle.svg"
         });
-:
-      page_description = "View and compare frequency response graphs for earphones",
-      accessories = true,
-      externalLinksBar = false,
-      restricted = false,
-      expandable = false,
-      expandableOnly = false,
-      headerHeight = "0px",
-      darkModeButton = true,
-      targetDashed = true,
-      targetColorCustom = false,
-      labelsPosition = "bottom-left",
-      stickyLabels = true,
-      analyticsEnabled = true,
-      exportableGraphs = true,
-      extraEnabled = true,
-      extraUploadEnabled = true,
-      extraEQEnabled = true,
-      extraEQBands = 10,
-      extraEQBandsMax = 20,
-      extraToneGeneratorEnabled = true;
 
-// Specify which targets to display
-const targets = [
-    { 
-        type: "Neutral",
-        files: ["Diffuse Field", "Etymotic", "Free Field", "Innerfidelity ID"]
-    },
-    { 
-        type: "Preference",
-        files: ["Harman 2019 IE v2", "Harman 2018 OE", "Rtings", "Sonarworks"]
-    },
-    { 
-        type: "Reviewer",
-        files: ["Antdroid", "Bad Guy", "Banbeucmas", "Crinacle", "Precogvision", "Super Review"]
-    }
-];
-
-// Functions to support config options
-function watermark(svg) {
-    let wm = svg.append("g")
-        .attr("transform", "translate(" + (pad.l + W/2) + "," + (pad.t + H/2 - 20) + ")")
-        .attr("opacity", 0.2);
-    
-    if (watermark_image_url) {
-        wm.append("image")
-            .attrs({
-                x: -64,
-                y: -64,
-                width: 128,
-                height: 128,
-                "xlink:href": watermark_image_url
-            });
-    }
-    
-    if (watermark_text) {
-        wm.append("text")
-            .attrs({
-                x: 0,
-                y: 70,
-                "font-size": 28,
-                "text-anchor": "middle",
-                "class": "graph-name"
-            })
-            .text(watermark_text);
-    }
-    
-    let wmSq = svg.append("g")
-        .attr("opacity", 0.2);
-    
-    wmSq.append("image")
-        .attrs({
-            x: 481,
-            y: 152,
-            width: 150,
-            height: 141,
-            "class": "wm-squiglink-logo",
-            "xlink:href": "squiglink-giggle.svg"
-        });
-    
     wmSq.append("text")
         .attrs({
             x: 641,
@@ -328,36 +210,36 @@ const tutorialDefinitions = [
     {
         name: "Sub bass",
         width: "20.1%",
-        description: "Lorem ipsum."
+        description: "Lowest frequencies, felt more than heard."
     },
     {
         name: "Mid bass",
         width: "19.2%",
-        description: "Lorem ipsum."
+        description: "Punch and warmth in music."
     },
     {
         name: "Lower midrange",
         width: "17.4%",
-        description: "Lorem ipsum."
+        description: "Body of vocals and instruments."
     },
     {
         name: "Upper midrange",
         width: "20%",
-        description: "Lorem ipsum."
+        description: "Clarity and presence in vocals."
     },
     {
         name: "Presence region",
         width: "6%",
-        description: "Lorem ipsum."
+        description: "Speech intelligibility and detail."
     },
     {
         name: "Mid treble",
         width: "7.3%",
-        description: "Lorem ipsum."
+        description: "Brilliance and air in sound."
     },
     {
         name: "Air",
         width: "10%",
-        description: "Lorem ipsum."
+        description: "Highest frequencies, sense of space."
     }
 ];
