@@ -113,9 +113,9 @@
 {
         "name": "Aurvana Mimi",
         "file": ["Creative Aurvana Mimi", "Creative Aurvana Mimi A"],
-	"suffix": ["(ANC off)", "(ANC on)"]
+	"suffix": ["(ANC off)", "(ANC on)"],
+	"reviewLink": "https://youtu.be/nhB9POgtYZ0"
       },
-
       {
         "name": "Outlier Free Pro Plus",
         "file": "Creative Outlier Free Pro Plus"
@@ -316,7 +316,8 @@
       {
         "name": "FreeArc",
         "file": ["Huawei FreeArc", "Huawei FreeArc Elev", "Huawei FreeArc TB", "Huawei FreeArc V"],
-	"suffix": ["(Default)", "(Elevate)", "(Treble Boost)", "(Voice)"]
+	"suffix": ["(Default)", "(Elevate)", "(Treble Boost)", "(Voice)"],
+	"reviewLink": "https://youtu.be/Mbb2Xwjlhks"
       },
 {
         "name": "Freebuds Pro",
@@ -406,6 +407,11 @@
 	"suffix": ["(ANC off)", "(ANC on)"],
 	"reviewLink": "https://youtu.be/ebBFuvaG9UE?si=dz7oRghYPt2XtZ1s"
       },
+ {
+        "name": "Carol Pro",
+        "file": ["KZ Carol Pro", "KZ Carol Pro ANC"],
+	"suffix": ["(ANC off)", "(ANC on)"]
+      },
 {
         "name": "Saga",
         "file": "KZ Saga"
@@ -442,7 +448,8 @@
 {
         "name": "Edge",
         "file": ["ME ANC", "ME EB", "ME CS", "ME OSS", "ME VS"],
-        "suffix": ["(Reference) (ANC on)", "(Extra Bass) (ANC on)", "(Country Style) (ANC on)", "(Old Studio Style) (ANC on)", "(Violin Solo) (ANC on)"]
+        "suffix": ["(Reference) (ANC on)", "(Extra Bass) (ANC on)", "(Country Style) (ANC on)", "(Old Studio Style) (ANC on)", "(Violin Solo) (ANC on)"],
+	"reviewLink": "https://youtu.be/UAug1MvfdtI"
       },
       {
         "name": "Moca",
@@ -451,6 +458,11 @@
 	"reviewLink": "https://youtu.be/Q8_2NCNSAlc?si=GbNZCcgR76Rwahkt"
       },
       {
+        "name": "Pill",
+        "file": ["Moondrop Pill Reference", "Moondrop Pill Bass Plus"],
+	"suffix": ["(Reference)", "(Bass Plus)"]
+      },
+{
         "name": "Space Travel (ANC on)",
         "file": "Moondrop Space Travel",
 	"reviewLink": "https://youtu.be/7_pO5f1CXUk?si=Vvw4tNjOQTfCPrKn"
@@ -672,14 +684,24 @@
 },
 
 {
-  "name": "Rose Technics",
+  "name": "RoseSelsa",
   "phones": [
     {
+      "name": "Ceramics-X",
+      "file": ["Roseselsa Ceramics X Pop", "Roseselsa Ceramics X Hifi", "Roseselsa Ceramics X Rock", "Roseselsa Ceramics X ANC Pop", "Roseselsa Ceramics X ANC Hifi L", "Roseselsa Ceramics X ANC Rock L"],
+      "suffix": ["(ANC off) (Pop)", "(ANC off) (Hifi)", "(ANC off) (Rock)", "(ANC on) (Pop)", "(ANC on) (Hifi)", "(ANC on) (Rock)"]
+    },
+{
       "name": "Earfree-I3",
       "file": ["Rose Technics Earfree I3 ANC", "Rose Technics Earfree I3 Hifi", "Rose Technics Earfree I3 Rock", "Rose Technics Earfree I3 ANC OFF", "Rose Technics Earfree I3 T"],
       "suffix": ["(ANC on) (Pop)", "(ANC on) (Hifi)", "(ANC on) (Rock)", "(ANC off) (Pop)", "(Transparency) (Pop)"],
 	"reviewLink": "https://youtu.be/sRjpsJdR73U?si=O1HokIs_rTNQsn3q"
-    }
+    },
+{
+      "name": "OpenFree",
+      "file": ["Rose Openfree Bal", "Rose Openfree Bass"],
+	"suffix": ["(Balanced)", "(Bass)"]
+     }
   ]
 },
 {
