@@ -1,0 +1,411 @@
+
+[
+    {
+        "name":   "Baseus",
+        "phones": [
+            {"name":"M2S",
+             "file":"Baseus M2S",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "CCA",
+        "phones": [
+            {"name":"CRA",
+             "file":"CCA CRA",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "CCZ",
+        "phones": [
+            {"name":"Emerald",
+             "file":"CCZ Emerald",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "Creative",
+        "phones": [
+            {"name":"Outlier Pro",
+             "file":"Creative Outlier Pro",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+	{"name":"Sensemore Air",
+             "file":"Creative Sensemore Air",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "Earfun",
+        "phones": [
+            {"name":"Air Pro 3",
+             "file":"Earfun Air Pro 3",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "Edifier",
+        "phones": [
+            {"name":"NeoBuds Pro",
+             "file":"Edifier NeoBuds Pro",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "FIIL",
+        "phones": [
+            {"name":"Key",
+             "file":"FIIL Key",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+    {
+        "name":   "Haylou",
+        "phones": [
+            {"name":"Purfree Buds",
+             "file":"Haylou Purfree Buds",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"S35",
+             "file":"Haylou S35",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+    {
+        "name":   "Huawei",
+        "phones": [
+            {"name":"Freebuds Pro",
+             "file":"Huawei Freebuds Pro",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "KB Ear",
+        "phones": [
+            {"name":"KS1",
+             "file":"KB Ear KS1",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Lark",
+             "file":"KB Ear Lark",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "KZ",
+        "phones": [
+            {"name":"SKS",
+             "file":"KZ SKS",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+ {
+        "name":   "Morph",
+        "phones": [
+            {"name":"Infiniconnect",
+             "file":"Morph Infiniconnect",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+	 {
+        "name":   "Omthing",
+        "phones": [
+            {"name":"Airfree 2",
+             "file":"Omthing Airfree 2",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "OneOdio",
+        "phones": [
+            {"name":"A10",
+             "file":"OneOdio A10",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"OpenRock Pro",
+             "file":"OneOdio OpenRock Pro",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "OnePlus",
+        "phones": [
+            {"name":"Buds Pro",
+             "file":"OnePlus Buds Pro",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "Oppo",
+        "phones": [
+            {"name":"Enco Air3",
+             "file":"Oppo Enco Air3",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Enco X2",
+             "file":"Oppo Enco X2",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "QCY",
+        "phones": [
+            {"name":"HT05 Melobuds",
+             "file":"QCY HT05 Melobuds",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"HT07 Arcbuds",
+             "file":"QCY HT07",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"T13",
+             "file":"QCY T13",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"T16",
+             "file":"QCY T16",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"T17",
+             "file":"QCY T17",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"T18",
+             "file":"QCY T17",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"T20",
+             "file":"QCY T20",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"G1",
+             "file":"QCY G1",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+        "name":   "Realme",
+        "phones": [
+            {"name":"Buds Air 3S",
+             "file":"Realme Buds Air 3S",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+    {
+        "name":   "Soundcore",
+        "phones": [
+            {"name":"Liberty 3 Pro",
+             "file":"Soundcore Liberty 3 Pro",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Life P2i",
+             "file":"Soundcore Life P2i",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"P3i",
+             "file":"Soundcore P3i",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+        ]
+    },
+{
+   	"name":   "SoundPEATS",
+        "phones": [
+            {"name":"Engine4",
+             "file":"SoundPEATS Engine4",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"H1",
+             "file":"SoundPEATS H1",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"H2",
+             "file":"SoundPEATS H2",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Life",
+             "file":"SoundPEATS Life",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Life Classic",
+             "file":"SoundPEATS Life Classic",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Air3",
+             "file":"SoundPEATS Air3",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Air3 Deluxe HS",
+             "file":"SoundPEATS Air3 Deluxe HS",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Mini",
+             "file":"SoundPEATS Mini",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Mini Pro HS",
+             "file":"SoundPEATS Mini Pro HS",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Opera05",
+             "file":"SoundPEATS Opera05",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Capsule3 Pro",
+             "file":"SoundPEATS Capsule3 Pro",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"RunFree Lite",
+             "file":"SoundPEATS RunFree Lite",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+	{"name":"Wings2",
+             "file":"SoundPEATS Wings2",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}      
+        ]
+    },
+{
+        
+	"name":   "Tronsmart",
+        "phones": [
+            {"name":"Apollo Air",
+             "file":"Tronsmart Apollo Air",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""},
+		{"name":"Onyx Pure",
+             "file":"Tronsmart Onyx Pure",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+]
+    },
+{
+
+	"name":   "TrueFree",
+        "phones": [
+            {"name":"T3",
+             "file":"TrueFree T3",
+             "reviewScore":"",
+             "reviewLink":"",
+             "price":"",
+             "shopLink":""}
+		        ]
+    }
+]
+				
+
