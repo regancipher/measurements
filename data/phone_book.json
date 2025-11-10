@@ -24,6 +24,21 @@
     ]
   },
   {
+    "name": "Acefast",
+    "phones": [
+    {
+        "name": "Acefit Air",
+        "file": "Acefast Acefit Air",
+	"reviewlink": "https://youtu.be/v9OCzkd4-SA"
+      },
+      {
+        "name": "Acefit Pro",
+        "file": "Acefast Acefit Pro",
+	"reviewlink": "https://youtu.be/v9OCzkd4-SA"
+      }
+    ]
+  },
+{
     "name": "Apple",
     "phones": [
       {
@@ -53,7 +68,7 @@
       {
         "name": "AirGo AS01",
         "file": ["Baseus AirGo AS01", "Baseus AirGo AS01 Bass Boost"],
-        "suffix": ["(ANC off, Default)", "(ANC off, Bass Boost)"],
+        "suffix": ["(Default)", "(Bass Boost)"],
         "reviewLink": "https://youtu.be/_V3GJkXoN5w?si=yU_2P4PrxP8v0O01"
       },
       {
@@ -158,7 +173,7 @@
       {
         "name": "Falcon Ultra",
         "file": ["Dunu Falcon Ultra Blue", "Dunu Falcon Ultra Gold"],
-        "suffix": ["(ANC off, Blue Nozzle)", "(ANC off, Gold Nozzle)"],
+        "suffix": ["(Blue Nozzle)", "(Gold Nozzle)"],
         "reviewLink": "https://youtu.be/2AaPYUc07X8?si=ArDnyiYP9JrsVMEn"
       },
       {
@@ -194,11 +209,15 @@
         "reviewLink": "https://youtu.be/2dSnlgElEaw?si=SHHakkxe0oVkKVU2"
       },
 {
-        "name": "X",
+        "name": "Air Pro 4i",
         "file": ["Earfun Air Pro 4i", "Earfun Air Pro 4i ANC"],
         "suffix": ["(ANC off, Default)", "(ANC on, Default)"]
       },
-
+{
+        "name": "Air Pro 4+",
+        "file": ["Earfun Air Pro 4 Plus", "Earfun Air Pro 4 Plus ANC"],
+        "suffix": ["(ANC off, Default)", "(ANC on, Default)"]
+      },
       {
         "name": "Wave Pro",
         "file": ["Earfun Wave Pro (ANC off)", "Earfun Wave Pro"],
@@ -273,7 +292,7 @@
       {
         "name": "GS (Golden Seed)",
         "file": ["FIIL GS", "FIIL GS Bass", "FIIL GS Treble"],
-        "suffix": ["(ANC off, Default)", "(ANC off, Bass Preset)", "(ANC off, Treble Preset)"],
+        "suffix": ["(Default)", "(Bass Preset)", "(Treble Preset)"],
         "reviewLink": "https://youtu.be/i2NVYwaV6Lg?si=XpnfMR_l2tmgzv-x"
       },
       {
@@ -286,6 +305,15 @@
         "file": ["FKP ANC off O", "FKP ANC on O", "FKP SIE"],
         "suffix": ["(ANC off, Original)", "(ANC on, Original)", "(ANC off, Semi In Ear Mode)"],
         "reviewLink": "https://youtu.be/QZ-Sj4rGYV4?si=KZ0EJVQmV4SaE3J4"
+      }
+    ]
+  },
+{
+    "name": "Geekfly",
+    "phones": [
+      {
+        "name": "Vitas",
+        "file": "Geekfly Vitas"
       }
     ]
   },
@@ -321,7 +349,7 @@
       {
         "name": "MS3",
         "file": ["Hidizs MS3 Gold", "Hidizs MS3 Red", "Hidizs MS3 Silver"],
-        "suffix": ["(ANC off, Gold Nozzle)", "(ANC off, Red Nozzle)", "(ANC off, Silver Nozzle)"],
+        "suffix": ["(Gold Nozzle)", "(Red Nozzle)", "(Silver Nozzle)"],
         "reviewLink": "https://youtu.be/dkzHdqw-ztI?si=ozVyUeuT7hYzN9st"
       }
     ]
@@ -332,7 +360,7 @@
       {
         "name": "FreeArc",
         "file": ["Huawei FreeArc", "Huawei FreeArc Elev", "Huawei FreeArc TB", "Huawei FreeArc V"],
-        "suffix": ["(ANC off, Default)", "(ANC off, Elevate)", "(ANC off, Treble Boost)", "(ANC off, Voice)"],
+        "suffix": ["(Default)", "(Elevate)", "(Treble Boost)", "(Voice)"],
         "reviewLink": "https://youtu.be/Mbb2Xwjlhks"
       },
       {
@@ -393,13 +421,13 @@
       {
         "name": "Delci AE",
         "file": ["Kefine Delci AE Gold", "Kefine Delci AE Silver"],
-        "suffix": ["(ANC off, Gold Nozzle)", "(ANC off, Silver Nozzle)"],
+        "suffix": ["(Gold Nozzle)", "(Silver Nozzle)"],
         "reviewLink": "https://youtu.be/9N4kPG4_cUA?si=5GZFqipESLDeSqCD"
       },
       {
         "name": "Klean",
         "file": ["Kefine Klean Black", "Kefine Klean Silver"],
-        "suffix": ["(ANC off, Black Nozzle)", "(ANC off, Silver Nozzle)"],
+        "suffix": ["(Black Nozzle)", "(Silver Nozzle)"],
         "reviewLink": "https://youtu.be/ywlMoGN5qoU?si=0zixGL52Tyr-IlnZ"
       }
     ]
@@ -453,7 +481,7 @@
       {
         "name": "Zenith",
         "file": ["KZ Zenith", "KZ Zenith Pos 1", "KZ Zenith Pos 2", "KZ Zenith Pos 3", "KZ Zenith Pos 4"],
-        "suffix": ["(ANC off, Basic Graph)", "(ANC off, Position 1)", "(ANC off, Position 2)", "(ANC off, Position 3)", "(ANC off, Position 4)"]
+        "suffix": ["(Basic Graph)", "(Position 1)", "(Position 2)", "(Position 3)", "(Position 4)"]
       }
     ]
   },
@@ -475,6 +503,12 @@
         "suffix": ["(ANC on, Reference)", "(ANC on, Extra Bass)", "(ANC on, Country Style)", "(ANC on, Old Studio Style)", "(ANC on, Violin Solo)"],
         "reviewLink": "https://youtu.be/UAug1MvfdtI"
       },
+{
+        "name": "Golden Ages 2",
+        "file": ["MGA2 ANC", "MGA2"],
+        "suffix": ["(ANC on, Pop)", "(ANC off, Pop)"],
+	"reviewLink": "https://youtu.be/0Mr1UBuMqeE"
+      },
       {
         "name": "Moca",
         "file": ["Moondrop Moca ANC", "Moondrop Moca", "Moondrop Moca ANC Ref", "Moondrop Moca Ref", "Moondrop Moca Solis Bass ANC", "Moondrop Moca Solis Bass", "Moondrop Moca ANC UB", "Moondrop Moca UB"],
@@ -484,7 +518,7 @@
       {
         "name": "Pill",
         "file": ["Moondrop Pill Reference", "Moondrop Pill Bass Plus"],
-        "suffix": ["(ANC off, Reference)", "(ANC off, Bass Plus)"],
+        "suffix": ["(Reference)", "(Bass Plus)"],
         "reviewLink": "https://youtu.be/XBp8UmOa6iU"
       },
       {
@@ -521,7 +555,7 @@
       {
         "name": "OWS Sport",
         "file": ["Oladance OWS Sport", "Oladance OWS Sport BB"],
-        "suffix": ["(ANC off, Default)", "(ANC off, Surging Bass)"],
+        "suffix": ["(Default)", "(Surging Bass)"],
         "reviewLink": "https://youtu.be/ae0FLlkeCo8?si=cT4tq505HbrSL6Qu"
       }
     ]
@@ -556,7 +590,7 @@
       {
         "name": "OpenRock X",
         "file": ["OpenRock X 2", "OpenRock X Boom", "OpenRock X Relax"],
-        "suffix": ["(ANC off, Default)", "(ANC off, Boom Mode)", "(ANC off, Relax Mode)"],
+        "suffix": ["(Default)", "(Boom Mode)", "(Relax Mode)"],
         "reviewLink": "https://youtu.be/CXLd-dQjvMs?si=0kyDuhW5sMCv7Tt_"
       }
     ]
@@ -569,6 +603,11 @@
         "file": ["OnePlus Buds 3", "OnePlus Buds 3 ANC", "OnePlus Buds 3 Ba", "OnePlus Buds 3 Bo", "OnePlus Buds 3 S"],
         "suffix": ["(ANC off, Original Sound)", "(ANC on, Original Sound)", "(ANC on, Bass)", "(ANC on, Bold)", "(ANC on, Serenade)"],
         "reviewLink": "https://youtu.be/nA8SzBswW5w?si=5sQJdAhWqZfbcd-8"
+      },
+{
+        "name": "Buds 4",
+        "file": ["OPB4", "OPB4 ANC"],
+        "suffix": ["(ANC off, Balanced)", "(ANC on, Balanced)"]
       },
       {
         "name": "Buds Pro",
@@ -648,7 +687,13 @@
         "suffix": ["(ANC off, Default)", "(ANC on, Default)"],
         "reviewLink": "https://youtu.be/mHzRXc5eZGI?si=Wm9NqsOyisd9gGSM"
       },
-      {
+       {
+        "name": "N70",
+        "file": ["QCY N70", "QCY N70 ANC"],
+        "suffix": ["(ANC off, Default)", "(ANC on, Default)"],
+	"reviewLink": "https://youtu.be/0Mr1UBuMqeE"
+      },
+	{
         "name": "T13",
         "file": "QCY T13",
         "reviewLink": "https://www.head-fi.org/showcase/qcy-t13-bluetooth-5-1-ipx5-waterproof-stereo-earphones-in-ear-built-in-mic-headset.25566/reviews#review-27347"
@@ -765,7 +810,7 @@
       {
         "name": "OpenFit Air",
         "file": ["Shokz OpenFit Air", "Shokz OpenFit Air BB"],
-        "suffix": ["(ANC off, Default)", "(ANC off, Bass Boost)"],
+        "suffix": ["(Default)", "(Bass Boost)"],
         "reviewLink": "https://youtu.be/6as1WWAPdyA?si=lXOpGB6jo22G4YEx"
       }
     ]
@@ -776,13 +821,13 @@
       {
         "name": "EA500 LM",
         "file": ["Simgot EA500 LM Blue", "Simgot EA500 LM", "Simgot EA500 LM Gold"],
-        "suffix": ["(ANC off, Silver Black Nozzle)", "(ANC off, Silver Red Nozzle)", "(ANC off, Gold Red Nozzle)"],
+        "suffix": ["(Silver Black Nozzle)", "(Silver Red Nozzle)", "(Gold Red Nozzle)"],
         "reviewLink": "https://youtu.be/JKTZcWz1D1w?si=TdE04m2-UCZthQU0"
       },
       {
         "name": "EA1000",
         "file": ["Simgot EA1000 Blue", "Simgot EA1000 Gold", "Simgot EA1000 Red"],
-        "suffix": ["(ANC off, Blue Nozzle)", "(ANC off, Gold Nozzle)", "(ANC off, Red Nozzle)"],
+        "suffix": ["(Blue Nozzle)", "(Gold Nozzle)", "(Red Nozzle)"],
         "reviewLink": "https://youtu.be/4sRDI6DYr6k?si=zqU2zh07hcIr06Gj"
       },
       {
@@ -864,12 +909,18 @@
       {
         "name": "Air5 Pro",
         "file": ["Soundpeats Air5 Pro SC", "Soundpeats Air5 Pro SC A"],
+        "suffix": ["(ANC off, SoundPEATS Classic)", "(ANC on, SoundPEATS Classic)"],
+	"reviewLink": "https://youtu.be/TcsBaFSb5DI"
+      },
+{
+        "name": "Air5 Pro Plus",
+        "file": ["Soundpeats Air5 Pro Plus", "Soundpeats Air5 Pro Plus A"],
         "suffix": ["(ANC off, SoundPEATS Classic)", "(ANC on, SoundPEATS Classic)"]
       },
       {
         "name": "Breezy",
         "file": ["SoundPEATS Breezy", "SoundPEATS Breezy Dynamic EQ"],
-        "suffix": ["(ANC off, Default)", "(ANC off, Dynamic EQ)"],
+        "suffix": ["(Default)", "(Dynamic EQ)"],
         "reviewLink": "https://youtu.be/LF-TvdMUjyQ?si=ULsqr0XVBFDIL0Db"
       },
       {
@@ -906,6 +957,12 @@
         "name": "H2",
         "file": "SoundPEATS H2",
         "reviewLink": "https://www.head-fi.org/showcase/soundpeats-h2-hybrid-dual-armature-driver-aptx-adaptive-qcc3040-tws.25663/reviews#review-27755"
+      },
+{
+        "name": "H3",
+        "file": ["SoundPEATS H3 ANC", "SoundPEATS H3"],
+        "suffix": ["(ANC on, SoundPEATS Classic)", "(ANC off, SoundPEATS Classic"],
+	"reviewLink": "https://youtu.be/0Mr1UBuMqeE"
       },
       {
         "name": "Life (ANC on)",
