@@ -216,7 +216,8 @@
 {
         "name": "Air Pro 4+",
         "file": ["Earfun Air Pro 4 Plus", "Earfun Air Pro 4 Plus ANC"],
-        "suffix": ["(ANC off, Default)", "(ANC on, Default)"]
+        "suffix": ["(ANC off, Default)", "(ANC on, Default)"],
+	"reviewLink": "https://youtu.be/7VgzpqhG8Vk"
       },
       {
         "name": "Wave Pro",
@@ -312,8 +313,13 @@
     "name": "Geekfly",
     "phones": [
       {
+        "name": "Amazing GF01",
+        "file": "Geekfly GF01"
+      },
+	{
         "name": "Vitas",
-        "file": "Geekfly Vitas"
+        "file": "Geekfly Vitas",
+	"reviewLink": "https://youtu.be/DhRHvkpc-4o"
       }
     ]
   },
@@ -607,7 +613,8 @@
 {
         "name": "Buds 4",
         "file": ["OPB4", "OPB4 ANC"],
-        "suffix": ["(ANC off, Balanced)", "(ANC on, Balanced)"]
+        "suffix": ["(ANC off, Balanced)", "(ANC on, Balanced)"],
+	"reviewLink": "https://youtu.be/7VgzpqhG8Vk"
       },
       {
         "name": "Buds Pro",
@@ -915,7 +922,8 @@
 {
         "name": "Air5 Pro Plus",
         "file": ["Soundpeats Air5 Pro Plus", "Soundpeats Air5 Pro Plus A"],
-        "suffix": ["(ANC off, SoundPEATS Classic)", "(ANC on, SoundPEATS Classic)"]
+        "suffix": ["(ANC off, SoundPEATS Classic)", "(ANC on, SoundPEATS Classic)"],
+	"reviewLink": "https://youtu.be/7VgzpqhG8Vk"
       },
       {
         "name": "Breezy",
