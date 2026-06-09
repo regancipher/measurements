@@ -71,6 +71,10 @@
         "suffix": ["(Default)", "(Bass Boost)"],
         "reviewLink": "https://youtu.be/_V3GJkXoN5w?si=yU_2P4PrxP8v0O01"
       },
+	{
+        "name": "Bass BS1 NC",
+        "file": "Baseus Bass BS1 NC"
+      },
       {
         "name": "M2S",
         "file": "Baseus M2S",
@@ -384,6 +388,11 @@
         "name": "Freebuds 5",
         "file": "Huawei Freebuds 5",
         "reviewlink": "https://youtu.be/Pn8jPFtjR_4?si=qLKnXLwKlkXKPgcx"
+      },
+	{
+        "name": "Freebuds Pro 5",
+        "file": ["Huawei FBP5 HSB", "Huawei FBP5 ANC HSB"],
+        "suffix": ["(ANC off, Huawei Sound Balanced)", "(ANC on, Huawei Sound Balanced)"]
       }
     ]
   },
@@ -776,6 +785,16 @@
         "suffix": ["(ANC off, Pop)", "(ANC off, Hifi)", "(ANC off, Rock)", "(ANC on, Pop)", "(ANC on, Hifi)", "(ANC on, Rock)"],
         "reviewLink": "https://youtu.be/BtOTwtPBfm8"
       },
+{
+        "name": "Ceramics MK2",
+        "file": ["Rose Ceramics MK2 Pop", "Rose Ceramics MK2 Hifi", "Rose Ceramics MK2 Rock"],
+        "suffix": ["(ANC on, Pop)", "(ANC on, Hifi)", "(ANC on, Rock)"]
+      },
+{
+        "name": "Ceramics Ultra",
+        "file": ["Rose Ceramics Ultra Pop", "Rose Ceramics Ultra Hifi", "Rose Ceramics Ultra Rock", "Rose Ceramics Ultra C"],
+        "suffix": ["(ANC on, Pop)", "(ANC on, Hifi)", "(ANC on, Rock)", "(ANC on, Classic)"]
+      },
       {
         "name": "Earfree-I3",
         "file": ["Rose Technics Earfree I3 ANC", "Rose Technics Earfree I3 Hifi", "Rose Technics Earfree I3 Rock", "Rose Technics Earfree I3 ANC OFF", "Rose Technics Earfree I3 T"],
@@ -865,8 +884,9 @@
         "file": "Soundcore Liberty 3 Pro"
       },
       {
-        "name": "Liberty 4 NC (ANC on)",
-        "file": "Soundcore Liberty 4 NC",
+        "name": "Liberty 4 NC",
+        "file": ["Soundcore L4 NC", "Soundcore L4 NC ANC"],
+	"suffix": ["(ANC off)", "(ANC on)"],
         "reviewLink": "https://youtu.be/nA8SzBswW5w?si=5sQJdAhWqZfbcd-8"
       },
       {
